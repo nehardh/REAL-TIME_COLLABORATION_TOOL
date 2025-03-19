@@ -15,7 +15,7 @@
     "@liveblocks/client": "^2.18.3",
     "@liveblocks/node": "^2.18.3",
     "@liveblocks/react": "^2.18.3",
-    "@liveblocks/react-lexical": "^2.18.3",
+    "@liveblocks/react-lexical": "^2.20.0",
     "@liveblocks/react-ui": "^2.18.3",
     "@radix-ui/react-slot": "^1.1.2",
     "class-variance-authority": "^0.7.1",
